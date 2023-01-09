@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Heart
+# Lung
 
-## Transplant
+## Wedge Resection
 
 ### subsection
 
@@ -14,10 +14,10 @@ Information here
 
 More information
 
-## Valves
+## Lobectomy
 
 ### subsection
 
-info on valves
+info on lobectomy
 
-[back](./)
+[back](./../)

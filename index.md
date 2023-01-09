@@ -6,9 +6,9 @@ layout: default
 
 ## BHL
 
-- [Breast](./breast.html)
-- [Heart](./heart.html)
-- [Lung](./lung.html)
+- [Breast](./BHL/breast.html)
+- [Heart](./BHL/heart.html)
+- [Lung](./BHL/lung.html)
 
 ## ENT
 

@@ -20,4 +20,4 @@ More information
 
 info on segmental
 
-[back](./)
+[back](./../)

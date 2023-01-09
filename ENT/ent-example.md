@@ -4,7 +4,7 @@ layout: default
 
 # ENT example
 
-!(Laryngectomy)[image/laryngectomy.jfif]
+!(Laryngectomy)[image/laryngectomy.gif]
 
 
 Information here
@@ -19,4 +19,4 @@ More information
 
 info on segmental
 
-[back](./)
+[back](./../)
