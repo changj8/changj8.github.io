@@ -261,4 +261,16 @@ layout: default
 - Axillary tail
 	- All lymph nodes
 
+## Sample Dictation [Mastectomy for Cancer with Axillary Dissection]
+
+Specimen #1 is received fresh in a single container labeled with the “patient name” and “designation”. Received is a __ g, total mastectomy specimen received with the following orientation __ (read off the orientation provided on the requisition sheet). Per this orientation, the specimen measures  __ cm anterior to posterior, __ cm superior to inferior, and __ cm medial to lateral. The anterior surface of the specimen is remarkable for a __ cm superior to inferior by __ cm medial to lateral elliptical piece of attached (pink/brown) (smooth/wrinkled) skin with a __ cm in diameter (inverted/everted) nipple and a __ cm in diameter areola. The specimen is also received with a __ x __ x __ cm axillary tail. The skin is remarkable for a __ x __ cm well healed linear scar, which is __ cm from the nipple. A __ x __ x __ cm piece of skeletal muscle is attached to the (upper inner/upper outer/lower inner/lower outer) quadrant. The specimen is inked as follows: posterior margin = black, superior anterior surface = blue, inferior anterior surface = green, skeletal muscle posteriorly = orange. Serially sectioning from medial to lateral reveals a __ x __ x __ cm biopsy tract with a __ (type) clip located in the (upper inner/upper outer/lower inner/lower outer) quadrant at __ o’clock. The biopsy site is __ cm from the nipple, __ cm from the posterior margin, and __ cm from the anterior margin. A __ x __ x __ cm (poorly/well) circumscribed, (firm/soft), tan-brown mass with focal (calcifications/hemorrhage) is located in the (upper inner/upper outer/lower inner/lower outer) quadrant at __ o’clock. The mass is located __ cm from the posterior margin, __ cm from the anterior margin, __ cm from the nipple, and __ cm from the biopsy site. The remaining parenchyma is tan-brown and unremarkable, with approximately __ % fibrous tissue. Searching the axillary tail reveals __ (number) tan-brown, firm lymph node candidates, ranging from __ x __ x __ cm to __ x __ x __ cm. Four candidates grossly appear to be involved by tumor. Representative sections are submitted in multiple cassettes. Time to fixation is __ hours __ minutes, duration of fixation is __ hours __ minutes.
+
+## Sample Dictation [Residual Tumor Burden]
+
+A __ x __ x __ cm area of residual poorly-circumscribed, firm, tan-brown tumor is in the (upper inner/upper outer/lower inner/lower outer) quadrant at __ o’clock, __ cm from the posterior margin, __ cm from the anterior margin, and __ cm from the nipple. A __ x __ x __ cm biopsy site with a __ (type) clip is…
+
+## Sample Dictation [Tumor bed]
+
+A __ cm anterior to posterior, __ cm superior to inferior, and __ cm medial to lateral tumor bed is located in the (upper inner/upper outer/lower inner/lower outer) quadrant at __ o’clock, __ cm from the posterior margin, __ cm from the anterior margin, and __ cm from the nipple. 
+
 [Home](./../) **>** [Breast](./breast.html)
