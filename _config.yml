@@ -1,5 +1,5 @@
-title: J Chang Test Site
-description: my description
+title: Gross Manual
+description: 
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme

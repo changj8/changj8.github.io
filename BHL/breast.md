@@ -3,7 +3,8 @@ layout: default
 ---
 [Home](./../)
 
-# [Masectomy](./masectomy.html)
-# Segmental
+# Breast
+## [Masectomy](./masectomy.html)
+## Segmental
 
 [Home](./../)
