@@ -4,11 +4,9 @@ layout: default
 
 # Grossing Manual
 
-## BHL
-
-- [Breast](./BHL/breast.html)
-- [Heart](./BHL/heart.html)
-- [Lung](./BHL/lung.html)
+## [Breast](./BHL/breast.html)
+## [Heart](./BHL/heart.html)
+## [Lung](./BHL/lung.html)
 
 ## ENT
 
