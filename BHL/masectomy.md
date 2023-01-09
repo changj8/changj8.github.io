@@ -169,8 +169,96 @@ layout: default
 
 ## Breast Cancer s/p Chemotherapy [Triage]
 
+- Weigh
+- Measure in three dimensions (superior-inferior, medial-lateral, anterior-posterior)
+- Measure the axillary tail in three dimensions (if received)
+- Measure the diameter of the nipple
+- Measure the diameter of the areola
+- Measure the skin on the anterior surface (if present) – medial to lateral, superior to inferior
+- Ink
+	- Anterior superior = blue
+	- Anterior inferior = green
+	- Posterior = black
+	- If there is skeletal muscle posteriorly, you may want to ink that a separate color (i.e. orange)
+	- Spray with vinegar when completely inked
+- Serially section from medial to lateral (unless another circumstances requires you section in a different plane)
+	- Place towels between each section
+	- Spray each section with vinegar
+- Fix in formalin overnight
+- Record the time the specimen was placed in formalin
+
 ## Breast Cancer s/p Chemotherapy [Gross Description]
 
+- Review imaging and previous reports to develop a game plan for any clips, masses, or tumor bed present
+- Dictate the specimen received 
+	- Indicate the correct type of specimen
+		- The operative note usually indicates the type of specimen
+	- Types of mastectomies:
+		- Simple
+		- Total
+		- Modified Radical
+		- Skin-Sparing
+- Dictate the weight
+- Dictate the orientation provided
+- Dictate the measurements per the orientation
+- Describe the skin on the anterior surface
+	- Size
+	- Appearance
+	- Any lesions – if present, measure to peripheral resection margin
+- Describe the nipple and areola
+	- Color, any abnormalities or lesions
+- Dictate the inking scheme
+- Dictate the direction in which the specimen was sectioned
+- Describe the cut surface 
+	- Lesions/masses
+		- Size in three dimensions
+		- Appearance – color, texture, definition
+		- Location
+			- Clock face
+			- Quadrant
+		- Distance to margins
+			- Posterior (describe skeletal muscle invasion, if present)
+			- Anterior
+			- Nipple
+		- Biopsy sites
+			- Clip – type, location
+			- Biopsy cavity – size, location, relationship to mass/lesion
+	- Tumor bed
+		- Size in three dimensions – orient each measurement (S-I, M-L, A-P)
+		- Appearance
+		- Location
+			- Clock face
+			- Quadrant
+			- This should be correlated with the patient’s clinical history
+		- Distance to margins
+			- Posterior
+			- Anterior
+			- Nipple
+	- Remaining specimen
+		- Appearance – fatty to fibrous ratio, any other abnormalities (cysts, calcifications, etc.)
+- Section the lateral aspect to look for any lymph nodes
+- Section the axillary tail for any lymph nodes, if present
+	- Lymph node goal: 10 lymph nodes
+- Dictate the time to fixation and duration of fixation using the Duration of Fixation Calculator on the P drive
+	- Use the time you placed the specimen in formalin during triage
+
 ## Breast Cancer s/p Chemotherapy [Section Submission]
+
+- Skin
+	- Perpendicular section of nipple/areola
+	- Any skin lesions
+- Tumor bed
+	- There are usually no masses – if there are, refer to the “Breast Cancer” section
+	- Submit a representative composite section of the largest cross-sectional area of the residual tumor bed
+		- Generally, 1 section per 1 cm of largest dimension
+		- Make sure to map out your sections with a picture
+		- Be specific as to where the sections came from (inferior/superior, posterior/anterior, central, etc.)
+		- Make sure to include areas that are grossly different
+- Remaining breast
+	- 1-2 blocks of uninvolved breast parenchyma from each quadrant
+		- Determine how many sections submitted based on appearance of specimen
+		- Indicate which quadrant each block belongs to 
+- Axillary tail
+	- All lymph nodes
 
 [Home](./../) **>** [Breast](./breast.html)
