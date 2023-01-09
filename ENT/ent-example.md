@@ -4,7 +4,7 @@ layout: default
 
 # ENT example
 
-!(Laryngectomy)[image/laryngectomy.gif]
+!(Laryngectomy)[./image/laryngectomy.gif]
 
 
 Information here
