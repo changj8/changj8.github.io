@@ -119,11 +119,11 @@ layout: default
   - Describe the appearance of the ventricle walls
   - Indicate abnormalities (measure, location, appearance)
   - Myocardial infarcts
-        - Number
-        - Location (anterior/posterior, medial/lateral, walls vs. septum, which wall)
-        - Extent (subendocardial versus transmural)
-        - Size
-        - Color and consistency
+          - Number
+          - Location (anterior/posterior, medial/lateral, walls vs. septum, which wall)
+          - Extent (subendocardial versus transmural)
+          - Size
+          - Color and consistency
 - Describe chordae tendinae (thickened, fused, etc.)
 - Describe endocardial surface 
   - Indicate any abnormalities (size, appearance)
