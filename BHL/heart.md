@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./../) **>** [Breast](./breast.html)
+[Home](./../) **>** [Heart](./heart.html)
 
 # Heart
 
@@ -145,8 +145,27 @@ layout: default
 - Vein grafts (if present)
 - Significant coronary artery lesions or occlusions (use decal if necessary)
 
-## Arterial Plaques
+## Arterial Plaques [Triage]
+
+- These can often be done fresh
+- If not, they can fix in formalin overnight
+
+## Arterial Plaques [Gross Description]
+
+- Dictate specimen received
+- Dictate the number of pieces
+- Dictate size in three dimensions
+  - 1-2 pieces, give each size
+  - Multiple pieces, give range of sizes
+- Describe the color and appearance
+- Indicate presence of thrombus, calcifications, or occlusions
+
+## Arterial Plaques [Section Submission]
+
+- Decal the specimen if there are calcifications
+- Submit the entire specimen if it is small
+- Submit representatives if the specimen is large
 
 ## Cardiac Valves
 
-[Home](./../) **>** [Breast](./breast.html)
+[Home](./../) **>** [Heart](./heart.html)
