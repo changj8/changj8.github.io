@@ -68,7 +68,7 @@ layout: default
 - Describe the appearance
   - Color, texture
   - Masses – size, color, texture, distance to margin
-        - If the mass is intracavitary, note whether it is pedunculated or sessile
+      - If the mass is intracavitary, note whether it is pedunculated or sessile
 - Ink the resection margins
   - Sample the margins in relation to the mass
 - Describe the remaining specimen
@@ -94,11 +94,11 @@ layout: default
 - Dictate weight and measurements
 - Coronary arteries
   - Serially section the coronary arteries
-        - Right Main Coronary
-        - Left Main Coronary
-        - Left Anterior Descending
-        - Circumflex
-        - Posterior Descending Artery
+    - Right Main Coronary
+    - Left Main Coronary
+    - Left Anterior Descending
+    - Circumflex
+    - Posterior Descending Artery
 - Dictate any abnormalities 
   - For calcifications and occlusions, dictate percentage of artery occluded
         - <25% stenosis
@@ -119,11 +119,11 @@ layout: default
   - Describe the appearance of the ventricle walls
   - Indicate abnormalities (measure, location, appearance)
   - Myocardial infarcts
-          - Number
-          - Location (anterior/posterior, medial/lateral, walls vs. septum, which wall)
-          - Extent (subendocardial versus transmural)
-          - Size
-          - Color and consistency
+        - Number
+        - Location (anterior/posterior, medial/lateral, walls vs. septum, which wall)
+        - Extent (subendocardial versus transmural)
+        - Size
+        - Color and consistency
 - Describe chordae tendinae (thickened, fused, etc.)
 - Describe endocardial surface 
   - Indicate any abnormalities (size, appearance)
