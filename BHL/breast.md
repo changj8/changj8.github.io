@@ -26,6 +26,37 @@ layout: default
 - Record the time the specimen was placed in formalin
 
 #### Gross Description
+
+- Dictate the specimen received 
+	- Indicate the correct type of specimen
+		- The operative note usually indicates the type of specimen
+	- Types of mastectomies:
+		- Simple
+		- Total
+		- Modified Radical
+		- Skin-Sparing
+- Dictate the weight
+- Dictate the orientation provided
+- Dictate the measurements per the orientation
+- Describe the skin on the anterior surface
+	- Size
+	- Appearance
+	- Any lesions – if present, measure to peripheral resection margin
+- Describe the nipple and areola
+	- Color, any abnormalities or lesions
+- Dictate the inking scheme
+- Dictate the direction in which the specimen was sectioned
+- Describe the cut surface 
+	- Lesions/masses
+		- There should be no lesions – if there are, refer to the “Breast Cancer” section
+	- Tumor bed
+		- There should be no residual tumor bed – if there is, refer to the “Breast Cancer s/p Chemotherapy” section
+	- No lesions
+		- Appearance – fatty to fibrous ratio, any other abnormalities (cysts, calcifications, etc.)
+- Section the lateral aspect to look for any lymph nodes
+- Dictate the time to fixation and duration of fixation using the Duration of Fixation Calculator on the P drive
+	- Use the time you placed the specimen in formalin during triage
+
 #### Section Submission
 
 Information here
