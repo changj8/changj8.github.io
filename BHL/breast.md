@@ -5,9 +5,7 @@ layout: default
 
 # Breast
 
-## Masectomy - Prophylactic
-
-### Masectomy - Prophylactic [Triage]
+## Masectomy - Prophylactic [Triage]
 
 - Weigh
 - Measure in three dimensions (superior-inferior, medial-lateral, anterior-posterior)
@@ -25,7 +23,7 @@ layout: default
 - Fix in formalin overnight
 - Record the time the specimen was placed in formalin
 
-### Masectomy - Prophylactic [Gross Description]
+## Masectomy - Prophylactic [Gross Description]
 
 - Dictate the specimen received 
 	- Indicate the correct type of specimen
@@ -57,7 +55,7 @@ layout: default
 - Dictate the time to fixation and duration of fixation using the Duration of Fixation Calculator on the P drive
 	- Use the time you placed the specimen in formalin during triage
 
-### Masectomy - Prophylactic [Section Submission]
+## Masectomy - Prophylactic [Section Submission]
 
 - Perpendicular section of nipple/areola
 - Any skin lesions
@@ -66,8 +64,7 @@ layout: default
 	- Determine how many sections submitted based on appearance of specimen
 	- Indicate which quadrant each block belongs to 
 
-## Masectomy - Breast Cancer
-### Masectomy - Breast Cancer [Triage]
+## Masectomy - Breast Cancer [Triage]
 
 - Weigh
 - Measure in three dimensions (superior-inferior, medial-lateral, anterior-posterior)
@@ -88,7 +85,7 @@ layout: default
 - Fix in formalin overnight
 - Record the time the specimen was placed in formalin
 
-### Masectomy - Breast Cancer [Gross Description]
+## Masectomy - Breast Cancer [Gross Description]
 
 - Review imaging and previous reports to develop a game plan for any clips, masses, or lesions present
 - Dictate the specimen received 
@@ -144,7 +141,7 @@ layout: default
 - Dictate the time to fixation and duration of fixation using the Duration of Fixation Calculator on the P drive
 	- Use the time you placed the specimen in formalin during triage
 
-### Masectomy - Breast Cancer [Section Submission]
+## Masectomy - Breast Cancer [Section Submission]
 - Skin
 	- Perpendicular section of nipple/areola
 	- Any skin lesions
