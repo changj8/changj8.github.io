@@ -101,11 +101,11 @@ layout: default
     - Posterior Descending Artery
 - Dictate any abnormalities 
   - For calcifications and occlusions, dictate percentage of artery occluded
-        - <25% stenosis
-        - 25-50% stenosis
-        - 50-75% stenosis
-        - 75-99% stenosis
-        - 100% (occluded)
+    - <25% stenosis
+    - 25-50% stenosis
+    - 50-75% stenosis
+    - 75-99% stenosis
+    - 100% (occluded)
   - Be specific to artery if abnormalities are found
 - Outer surface
   - Describe color and texture
@@ -119,11 +119,11 @@ layout: default
   - Describe the appearance of the ventricle walls
   - Indicate abnormalities (measure, location, appearance)
   - Myocardial infarcts
-        - Number
-        - Location (anterior/posterior, medial/lateral, walls vs. septum, which wall)
-        - Extent (subendocardial versus transmural)
-        - Size
-        - Color and consistency
+    - Number
+    - Location (anterior/posterior, medial/lateral, walls vs. septum, which wall)
+    - Extent (subendocardial versus transmural)
+    - Size
+    - Color and consistency
 - Describe chordae tendinae (thickened, fused, etc.)
 - Describe endocardial surface 
   - Indicate any abnormalities (size, appearance)
