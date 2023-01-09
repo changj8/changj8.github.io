@@ -57,7 +57,7 @@ layout: default
 - Dictate the time to fixation and duration of fixation using the Duration of Fixation Calculator on the P drive
 	- Use the time you placed the specimen in formalin during triage
 
-#### Section Submission
+### Section Submission
 
 - Perpendicular section of nipple/areola
 - Any skin lesions
