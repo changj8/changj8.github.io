@@ -2,21 +2,23 @@
 layout: default
 ---
 
-# BHL
+# Grossing Manual
+
+## BHL
 
 - [Breast](./breast.html)
 - [Heart](./heart.html)
 - [Lung](./lung.html)
 
-# ENT
+## ENT
 
 - [ENT Example](./ENT/ent-example.html)
 
-# GI
-# GYN
-# DERM / ST
-# GU
-# GENERAL
+## GI
+## GYN
+## DERM / ST
+## GU
+## GENERAL
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
