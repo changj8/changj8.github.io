@@ -5,10 +5,9 @@ layout: default
 
 # Breast
 
-## Masectomy
+## Masectomy - Prophylactic
 
-### Prophylactic
-#### Triage
+### Triage
 
 - Weigh
 - Measure in three dimensions (superior-inferior, medial-lateral, anterior-posterior)
@@ -26,7 +25,7 @@ layout: default
 - Fix in formalin overnight
 - Record the time the specimen was placed in formalin
 
-#### Gross Description
+### Gross Description
 
 - Dictate the specimen received 
 	- Indicate the correct type of specimen
@@ -67,8 +66,8 @@ layout: default
 	- Determine how many sections submitted based on appearance of specimen
 	- Indicate which quadrant each block belongs to 
 
-### Breast Cancer
-#### Triage
+## Masectomy - Breast Cancer
+### Triage
 
 - Weigh
 - Measure in three dimensions (superior-inferior, medial-lateral, anterior-posterior)
@@ -89,7 +88,7 @@ layout: default
 - Fix in formalin overnight
 - Record the time the specimen was placed in formalin
 
-#### Gross Description
+### Gross Description
 
 - Review imaging and previous reports to develop a game plan for any clips, masses, or lesions present
 - Dictate the specimen received 
@@ -145,7 +144,7 @@ layout: default
 - Dictate the time to fixation and duration of fixation using the Duration of Fixation Calculator on the P drive
 	- Use the time you placed the specimen in formalin during triage
 
-#### Section Submission
+### Section Submission
 - Skin
 	- Perpendicular section of nipple/areola
 	- Any skin lesions
@@ -172,7 +171,7 @@ layout: default
 - Axillary tail
 	- All lymph nodes
 
-### Breast Cancer s/p Chemotherapy
+## Mastectomy - Breast Cancer s/p Chemotherapy
 
 ## Segmental
 
