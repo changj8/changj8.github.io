@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](./../) | [Breast](./Breast.html)
+[Home](./../) | [Breast](./breast.html)
 
 # Masectomy
 ## Prophylactic [Triage]
@@ -173,4 +173,4 @@ layout: default
 
 ## Breast Cancer s/p Chemotherapy [Section Submission]
 
-[Home](./../) | [Breast](./Breast.html)
+[Home](./../) | [Breast](./breast.html)
