@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./../) **>** [Heart](./heart.html)
+[Home](./../) **>** [Heart](./heart.html) **>** [Heart Tumor and Transplant](./tumortransplant.html)
 
 # Heart Tumor and Transplant
 
@@ -101,4 +101,4 @@ layout: default
 - Significant coronary artery lesions or occlusions (use decal if necessary)
 
 
-[Home](./../) **>** [Heart](./heart.html)
+[Home](./../) **>** [Heart](./heart.html) **>** [Heart Tumor and Transplant](./tumortransplant.html)
