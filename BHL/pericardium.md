@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./../) **>** [Heart](./heart.html)
+[Home](./../) **>** [Heart](./heart.html) **>** [Pericardium and Partial Resection](./pericardium.html)
 
 # Pericardium and Partial Resection
 
@@ -51,4 +51,4 @@ layout: default
 - Submit representative sections of any masses or lesions (at least 1 section per centimeter)
 - If the specimen is grossly normal, submit 1-2 blocks of representatives 
 
-[Home](./../) **>** [Heart](./heart.html)
+[Home](./../) **>** [Heart](./heart.html) **>** [Pericardium and Partial Resection](./pericardium.html)
