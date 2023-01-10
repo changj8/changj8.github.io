@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](./../) **>** [Breast](./breast.html)
+[Home](./../) **>** [Breast](./breast.html) **>** [Masectomy](./mastectomy.html)
 
 # Masectomy
 ## Prophylactic [Triage]
@@ -273,4 +273,4 @@ A __ x __ x __ cm area of residual poorly-circumscribed, firm, tan-brown tumor i
 
 A __ cm anterior to posterior, __ cm superior to inferior, and __ cm medial to lateral tumor bed is located in the (upper inner/upper outer/lower inner/lower outer) quadrant at __ o’clock, __ cm from the posterior margin, __ cm from the anterior margin, and __ cm from the nipple. 
 
-[Home](./../) **>** [Breast](./breast.html)
+[Home](./../) **>** [Breast](./breast.html) **>** [Masectomy](./mastectomy.html)
