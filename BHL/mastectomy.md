@@ -3,7 +3,7 @@ layout: default
 ---
 [Home](./../) **>** [Breast](./breast.html) **>** [Mastectomy](./mastectomy.html)
 
-# Masectomy
+# Mastectomy
 ## Prophylactic [Triage]
 
 - Weigh
