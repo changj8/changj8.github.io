@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./../) **>** [Heart](./heart.html)
+[Home](./../) **>** [Heart](./heart.html) **>** [Arterial Plaques and Valves](./plaquesvalves.html)
 
 ## Arterial Plaques [Triage]
 
@@ -71,3 +71,5 @@ layout: default
 - Only submit sections if there is appreciate blood clot or abnormal soft tissue attached
 
 [Home](./../) **>** [Heart](./heart.html)
+
+**>** [Arterial Plaques and Valves](./plaquesvalves.html)
