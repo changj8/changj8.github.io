@@ -9,5 +9,6 @@ layout: default
 ### [Axillary Lymph Node Dissection](./axillarynode.html)
 ### [Sentinel Lymph Node Biopsy](./sentinelnode.html)
 ### [Breast Implants](./breastimplant.html)
+### [Breast Reductions](./breastreduction.html)
 
 [Home](./../) **>** [Breast](./breast.html)
