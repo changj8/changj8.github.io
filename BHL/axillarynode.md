@@ -5,7 +5,7 @@ layout: default
 
 # Axillary Lymph Node Dissection
 ## Triage
- -Measure in three dimensions
+- Measure in three dimensions
 - Record the time the specimen is placed in formalin for future time to and duration of fixation calculations
 
 ## Gross Description
