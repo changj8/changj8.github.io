@@ -22,8 +22,7 @@ layout: default
 ### [Biomarker Reporting](https://documents.cap.org/protocols/Breast.Bmk_1.5.0.0.REL_CAPCP.pdf)
 
 # Vidoes
-### [Lumpectomy Specimen Localized with Radioactive Seed](https://youtu.be/ff5FLoblBJE)
-
+### [Lumpectomy Specimen Localized with Radioactive Seed]
 [![Watch the video](https://img.youtube.com/vi/ff5FLoblBJE/maxresdefault.jpg)](https://youtu.be/ff5FLoblBJE)
 
 [Home](./../) **>** [Breast](./breast.html)
