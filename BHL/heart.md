@@ -6,7 +6,8 @@ layout: default
 
 # Heart
 ### [Pericardium and Partial Resection](./pericardium.html)
-### [Heart Tumor and Transplant](./tumortransplant.html)
+### [Heart Tumor](./hearttumor.html)
+### [Heart Transplant](./hearttransplant.html)
 ### [Arterial Plaques and Valves](./plaquesvalves.html)
 
 [Home](./../)
