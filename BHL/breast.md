@@ -21,4 +21,7 @@ layout: default
 ### [Invasive, Biopsy](https://documents.cap.org/protocols/Breast.Invasive.Bx_1.1.1.2.REL_CAPCP.pdf)
 ### [Biomarker Reporting](https://documents.cap.org/protocols/Breast.Bmk_1.5.0.0.REL_CAPCP.pdf)
 
+# Vidoes
+### [Lumpectomy Specimen Localized with Radioactive Seed](https://youtu.be/ff5FLoblBJE)
+
 [Home](./../) **>** [Breast](./breast.html)
