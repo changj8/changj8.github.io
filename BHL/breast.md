@@ -24,4 +24,6 @@ layout: default
 # Vidoes
 ### [Lumpectomy Specimen Localized with Radioactive Seed](https://youtu.be/ff5FLoblBJE)
 
+[![Watch the video](https://img.youtube.com/vi/ff5FLoblBJE/maxresdefault.jpg)](https://youtu.be/ff5FLoblBJE)
+
 [Home](./../) **>** [Breast](./breast.html)
