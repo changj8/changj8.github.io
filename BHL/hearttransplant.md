@@ -3,14 +3,14 @@ layout: default
 ---
 [Home](./../) **>** [Heart](./heart.html) **>** [Heart Transplant](./hearttransplant.html)
 
-## Heart Transplant [Triage]
+## Triage
 
 - Weight
 - Measurement in three dimensions (A-B, A-P, Transverse)
 - Fix in Formalin overnight
   - Sometimes it is helpful to put paper towels within the heart to help the inside fix as well
 
-## Heart Transplant [Gross Description]
+## Gross Description
 
 - Dictate specimen received
 - Dictate weight and measurements
@@ -54,7 +54,7 @@ layout: default
   - Wall thickness
   - Abnormalities (if present)
 
-## Heart Transplant [Section Submission]
+## Section Submission
 
 - Left atrium
 - Right atrium
