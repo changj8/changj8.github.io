@@ -10,5 +10,6 @@ layout: default
 ### [Sentinel Lymph Node Biopsy](./sentinelnode.html)
 ### [Breast Implants](./breastimplant.html)
 ### [Breast Reductions](./breastreduction.html)
+### [Breast Core Biopsies](./breastcore.html)
 
 [Home](./../) **>** [Breast](./breast.html)
