@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Gross Manual](./index.html)
+# Gross Manual
 ### [Breast](./BHL/breast.html)
 ### [Heart](./BHL/heart.html)
 ### [Lung](./BHL/lung.html)
