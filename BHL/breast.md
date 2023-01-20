@@ -5,6 +5,6 @@ layout: default
 
 # Breast
 ### [Mastectomy](./mastectomy.html)
-### Segmental
+### [Segmental](./segmental.html)
 
 [Home](./../) **>** [Breast](./breast.html)
